@@ -1,5 +1,7 @@
 import 'package:json_annotation/json_annotation.dart';
 
+part 'Bitcoin.g.dart';
+
 @JsonSerializable()
 class Bitcoin {
   double price;
